@@ -12,3 +12,4 @@ context = {
     'list_barang': data_barang_wishlist,
     'nama': 'Muhammad Al Rivalda'
 }
+
